@@ -78,7 +78,7 @@ If you want to add new prompts to an existing rule, follow these steps:
 
 
 ## Getting Started
-
+l
 First, run the development server:
 
 ```bash
