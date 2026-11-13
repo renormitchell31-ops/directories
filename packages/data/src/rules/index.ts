@@ -28,6 +28,7 @@ import { flutterRules } from "./flutter";
 import { frontEndRules } from "./front-end";
 import { gatsbyRules } from "./gastby";
 import { ghostTailwindcssRules } from "./ghost-tailwindcss";
+import { githubCopilotRules } from "./github-copilot";
 import { globalRules } from "./global";
 import { goRules } from "./go";
 import { htmlAndCssRules } from "./htmlandcss";
@@ -108,6 +109,7 @@ export const rules: Rule[] = [
   ...frontEndRules,
   ...gatsbyRules,
   ...ghostTailwindcssRules,
+  ...githubCopilotRules,
   ...globalRules,
   ...goRules,
   ...htmlAndCssRules,
